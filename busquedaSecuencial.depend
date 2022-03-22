@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1647457854 source:d:\c\busquedasecuencial\funciones.c
+	"header.h"
+
+1647457659 source:d:\c\busquedasecuencial\main.c
+	"header.h"
+
+1647457861 d:\c\busquedasecuencial\header.h
+	<stdio.h>
+	<stdlib.h>
+
